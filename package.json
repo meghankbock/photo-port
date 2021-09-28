@@ -1,7 +1,7 @@
 {
   "name": "photo-port",
   "version": "0.1.0",
-  "homepage": "http://meghankbock.github.io/photo-port",
+  "homepage": "https://meghankbock.github.io/photo-port",
   "private": true,
   "dependencies": {
     "@testing-library/user-event": "^12.8.3",
